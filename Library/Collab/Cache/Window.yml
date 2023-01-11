@@ -13,8 +13,425 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
+    m_Keys:
+    - .collabignore
+    - Assets/Animation.meta
+    - Assets/Animation/Bronze.anim
+    - Assets/Animation/Bronze.anim.meta
+    - Assets/Animation/Bronze.controller
+    - Assets/Animation/Bronze.controller.meta
+    - Assets/Animation/Enemy.controller
+    - Assets/Animation/Enemy.controller.meta
+    - Assets/Animation/Enemy_Idle.anim
+    - Assets/Animation/Enemy_Idle.anim.meta
+    - Assets/Animation/Enemy_Walk.anim
+    - Assets/Animation/Enemy_Walk.anim.meta
+    - Assets/Animation/Gold.anim
+    - Assets/Animation/Gold.anim.meta
+    - Assets/Animation/Gold.controller
+    - Assets/Animation/Gold.controller.meta
+    - Assets/Animation/Player.controller
+    - Assets/Animation/Player.controller.meta
+    - Assets/Animation/Player_Damaged.anim
+    - Assets/Animation/Player_Damaged.anim.meta
+    - Assets/Animation/Player_Idle.anim
+    - Assets/Animation/Player_Idle.anim.meta
+    - Assets/Animation/Player_Jump.anim
+    - Assets/Animation/Player_Jump.anim.meta
+    - Assets/Animation/Player_Walk.anim
+    - Assets/Animation/Player_Walk.anim.meta
+    - Assets/Animation/Silver.anim
+    - Assets/Animation/Silver.anim.meta
+    - Assets/Animation/Silver.controller
+    - Assets/Animation/Silver.controller.meta
+    - Assets/Fonts.meta
+    - Assets/Fonts/ONE MOBILE BOLD.TTF
+    - Assets/Fonts/ONE MOBILE BOLD.TTF.meta
+    - Assets/Fonts/ONE MOBILE LIGHT.TTF
+    - Assets/Fonts/ONE MOBILE LIGHT.TTF.meta
+    - Assets/Fonts/ONE MOBILE OTF BOLD.OTF
+    - Assets/Fonts/ONE MOBILE OTF BOLD.OTF.meta
+    - Assets/Fonts/ONE MOBILE OTF LIGHT.OTF
+    - Assets/Fonts/ONE MOBILE OTF LIGHT.OTF.meta
+    - Assets/Fonts/ONE MOBILE OTF REGULAR.OTF
+    - Assets/Fonts/ONE MOBILE OTF REGULAR.OTF.meta
+    - Assets/Fonts/ONE MOBILE POP OTF.OTF
+    - Assets/Fonts/ONE MOBILE POP OTF.OTF.meta
+    - Assets/Fonts/ONE MOBILE POP.TTF
+    - Assets/Fonts/ONE MOBILE POP.TTF.meta
+    - Assets/Fonts/ONE MOBILE REGULAR.TTF
+    - Assets/Fonts/ONE MOBILE REGULAR.TTF.meta
+    - Assets/Fonts/ONE MOBILE TITLE OTF.OTF
+    - Assets/Fonts/ONE MOBILE TITLE OTF.OTF.meta
+    - Assets/Fonts/ONE MOBILE TITLE.TTF
+    - Assets/Fonts/ONE MOBILE TITLE.TTF.meta
+    - Assets/Galaxia Sprite Pack #1.meta
+    - Assets/Galaxia Sprite Pack #1/Effects.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BlueBullet.anim
+    - Assets/Galaxia Sprite Pack #1/Effects/BlueBullet.anim.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetBlue.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetBlue.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetBlue_0 1.controller
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetBlue_0 1.controller.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetBlue_0.controller
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetBlue_0.controller.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen_0 1.controller
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen_0 1.controller.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen_0 2.controller
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen_0 2.controller.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen_0.controller
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen_0.controller.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetPurple.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetPurple.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetPurple_0 1.controller
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetPurple_0 1.controller.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetPurple_0.controller
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetPurple_0.controller.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetRed.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetRed.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetYellow.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetYellow.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetBlue.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetBlue.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetGreen.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetGreen.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetPurple.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetPurple.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetRed.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetRed.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetYellow.png
+    - Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetYellow.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/GreenBullet_Animation.anim
+    - Assets/Galaxia Sprite Pack #1/Effects/GreenBullet_Animation.anim.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/Greenbullet.anim
+    - Assets/Galaxia Sprite Pack #1/Effects/Greenbullet.anim.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/LaserGreen.anim
+    - Assets/Galaxia Sprite Pack #1/Effects/LaserGreen.anim.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetBlue.png
+    - Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetBlue.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetGreen.png
+    - Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetGreen.png.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetGreen_0.controller
+    - Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetGreen_0.controller.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/New Animation.anim
+    - Assets/Galaxia Sprite Pack #1/Effects/New Animation.anim.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/New Animation2.anim
+    - Assets/Galaxia Sprite Pack #1/Effects/New Animation2.anim.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/New Animation3.anim
+    - Assets/Galaxia Sprite Pack #1/Effects/New Animation3.anim.meta
+    - Assets/Galaxia Sprite Pack #1/Effects/PurpleBullet.anim
+    - Assets/Galaxia Sprite Pack #1/Effects/PurpleBullet.anim.meta
+    - Assets/Joystick Pack.meta
+    - Assets/Joystick Pack/Documentaion.pdf
+    - Assets/Joystick Pack/Documentaion.pdf.meta
+    - Assets/Joystick Pack/Examples.meta
+    - Assets/Joystick Pack/Examples/Example Scene.unity
+    - Assets/Joystick Pack/Examples/Example Scene.unity.meta
+    - Assets/Joystick Pack/Examples/Ground.mat
+    - Assets/Joystick Pack/Examples/Ground.mat.meta
+    - Assets/Joystick Pack/Examples/JoystickPlayerExample.cs
+    - Assets/Joystick Pack/Examples/JoystickPlayerExample.cs.meta
+    - Assets/Joystick Pack/Examples/JoystickSetterExample.cs
+    - Assets/Joystick Pack/Examples/JoystickSetterExample.cs.meta
+    - Assets/Joystick Pack/Examples/Player.mat
+    - Assets/Joystick Pack/Examples/Player.mat.meta
+    - Assets/Joystick Pack/Prefabs.meta
+    - Assets/Joystick Pack/Prefabs/Dynamic Joystick.prefab
+    - Assets/Joystick Pack/Prefabs/Dynamic Joystick.prefab.meta
+    - Assets/Joystick Pack/Prefabs/Fixed Joystick.prefab
+    - Assets/Joystick Pack/Prefabs/Fixed Joystick.prefab.meta
+    - Assets/Joystick Pack/Prefabs/Floating Joystick.prefab
+    - Assets/Joystick Pack/Prefabs/Floating Joystick.prefab.meta
+    - Assets/Joystick Pack/Prefabs/Variable Joystick.prefab
+    - Assets/Joystick Pack/Prefabs/Variable Joystick.prefab.meta
+    - Assets/Joystick Pack/Scripts.meta
+    - Assets/Joystick Pack/Scripts/Base.meta
+    - Assets/Joystick Pack/Scripts/Base/Joystick.cs
+    - Assets/Joystick Pack/Scripts/Base/Joystick.cs.meta
+    - Assets/Joystick Pack/Scripts/Editor.meta
+    - Assets/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs
+    - Assets/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs.meta
+    - Assets/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs
+    - Assets/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs.meta
+    - Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs
+    - Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs.meta
+    - Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs
+    - Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs.meta
+    - Assets/Joystick Pack/Scripts/Joysticks.meta
+    - Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs
+    - Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs.meta
+    - Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs
+    - Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs.meta
+    - Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs
+    - Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs.meta
+    - Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs
+    - Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs.meta
+    - Assets/Joystick Pack/Sprites.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png.meta
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png
+    - Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Handles.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Outline.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Outline.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Plain.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Plain.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Ridged.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Ridged.png.meta
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png
+    - Assets/Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png.meta
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png
+    - Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png.meta
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png
+    - Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png.meta
+    - Assets/Platform.physicsMaterial2D
+    - Assets/Platform.physicsMaterial2D.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/BlueBullet.prefab
+    - Assets/Prefabs/BlueBullet.prefab.meta
+    - Assets/Prefabs/GreenBullet.prefab
+    - Assets/Prefabs/GreenBullet.prefab.meta
+    - Assets/Prefabs/PurpleBullet.prefab
+    - Assets/Prefabs/PurpleBullet.prefab.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scenes/Stage1.unity
+    - Assets/Scenes/Stage1.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/BookEach.cs
+    - Assets/Scripts/BookEach.cs.meta
+    - Assets/Scripts/BookMenu.cs
+    - Assets/Scripts/BookMenu.cs.meta
+    - Assets/Scripts/Boss.cs
+    - Assets/Scripts/Boss.cs.meta
+    - Assets/Scripts/BulletControl.cs
+    - Assets/Scripts/BulletControl.cs.meta
+    - Assets/Scripts/CameraController.cs
+    - Assets/Scripts/CameraController.cs.meta
+    - Assets/Scripts/CameraResolution.cs
+    - Assets/Scripts/CameraResolution.cs.meta
+    - Assets/Scripts/Define.cs
+    - Assets/Scripts/Define.cs.meta
+    - Assets/Scripts/Enemy_Move.cs
+    - Assets/Scripts/Enemy_Move.cs.meta
+    - Assets/Scripts/GameManager.cs
+    - Assets/Scripts/GameManager.cs.meta
+    - Assets/Scripts/MainMenu.cs
+    - Assets/Scripts/MainMenu.cs.meta
+    - Assets/Scripts/PlayerController.cs
+    - Assets/Scripts/PlayerController.cs.meta
+    - Assets/Scripts/StageMenu.cs
+    - Assets/Scripts/StageMenu.cs.meta
+    - Assets/Scripts/TreasurePopUp.cs
+    - Assets/Scripts/TreasurePopUp.cs.meta
+    - Assets/Sprites.meta
+    - Assets/Sprites/App Icon.png
+    - Assets/Sprites/App Icon.png.meta
+    - Assets/Sprites/Back.png
+    - Assets/Sprites/Back.png.meta
+    - Assets/Sprites/Back_Title.png
+    - Assets/Sprites/Back_Title.png.meta
+    - Assets/Sprites/Bear.png
+    - Assets/Sprites/Bear.png.meta
+    - Assets/Sprites/Bear1.png
+    - Assets/Sprites/Bear1.png.meta
+    - Assets/Sprites/Boss_KingSeJong.png
+    - Assets/Sprites/Boss_KingSeJong.png.meta
+    - Assets/Sprites/Coins.png
+    - Assets/Sprites/Coins.png.meta
+    - Assets/Sprites/Enemy.png
+    - Assets/Sprites/Enemy.png.meta
+    - Assets/Sprites/Jump.png
+    - Assets/Sprites/Jump.png.meta
+    - Assets/Sprites/LockMat.png
+    - Assets/Sprites/LockMat.png.meta
+    - Assets/Sprites/MainMenu.meta
+    - Assets/Sprites/MainMenu/Start_background.png
+    - Assets/Sprites/MainMenu/Start_background.png.meta
+    - Assets/Sprites/MainMenu/Start_background_update ver 1.png
+    - Assets/Sprites/MainMenu/Start_background_update ver 1.png.meta
+    - Assets/Sprites/MainMenu/Start_background_update ver 2.png
+    - Assets/Sprites/MainMenu/Start_background_update ver 2.png.meta
+    - Assets/Sprites/MainMenu/Start_background_update ver.png
+    - Assets/Sprites/MainMenu/Start_background_update ver.png.meta
+    - Assets/Sprites/MainMenu/Start_collectionButtion.png
+    - Assets/Sprites/MainMenu/Start_collectionButtion.png.meta
+    - Assets/Sprites/MainMenu/Start_customButton.png
+    - Assets/Sprites/MainMenu/Start_customButton.png.meta
+    - Assets/Sprites/MainMenu/Start_gameQuitButtion.png
+    - Assets/Sprites/MainMenu/Start_gameQuitButtion.png.meta
+    - Assets/Sprites/MainMenu/Start_gamestartButton.png
+    - Assets/Sprites/MainMenu/Start_gamestartButton.png.meta
+    - "Assets/Sprites/MainMenu/\uBC30\uACBD.png"
+    - "Assets/Sprites/MainMenu/\uBC30\uACBD.png.meta"
+    - "Assets/Sprites/MainMenu/\uC2DC\uC791\uD654\uBA74_\uBC84\uD2BC_\uD658\uACBD\uC124\uC815.png"
+    - "Assets/Sprites/MainMenu/\uC2DC\uC791\uD654\uBA74_\uBC84\uD2BC_\uD658\uACBD\uC124\uC815.png.meta"
+    - "Assets/Sprites/MainMenu/\uC2DC\uC791\uD654\uBA74\uBC84\uD2BC\uD658\uACBD\uC124\uC815.png"
+    - "Assets/Sprites/MainMenu/\uC2DC\uC791\uD654\uBA74\uBC84\uD2BC\uD658\uACBD\uC124\uC815.png.meta"
+    - Assets/Sprites/Material.meta
+    - Assets/Sprites/Material/Guk(0).png
+    - Assets/Sprites/Material/Guk(0).png.meta
+    - Assets/Sprites/Material/Guk(1).png
+    - Assets/Sprites/Material/Guk(1).png.meta
+    - Assets/Sprites/Material/Guk(2).png
+    - Assets/Sprites/Material/Guk(2).png.meta
+    - Assets/Sprites/Material/Ja(0).png
+    - Assets/Sprites/Material/Ja(0).png.meta
+    - Assets/Sprites/Material/Ja(1).png
+    - Assets/Sprites/Material/Ja(1).png.meta
+    - Assets/Sprites/Material/Ja(2).png
+    - Assets/Sprites/Material/Ja(2).png.meta
+    - Assets/Sprites/Material/Ja(3).png
+    - Assets/Sprites/Material/Ja(3).png.meta
+    - Assets/Sprites/Material/Ja(4).png
+    - Assets/Sprites/Material/Ja(4).png.meta
+    - Assets/Sprites/Material/Jo(0).png
+    - Assets/Sprites/Material/Jo(0).png.meta
+    - Assets/Sprites/Material/Jo(1).png
+    - Assets/Sprites/Material/Jo(1).png.meta
+    - Assets/Sprites/Material/Ko(0).png
+    - Assets/Sprites/Material/Ko(0).png.meta
+    - Assets/Sprites/Material/Ko(1).png
+    - Assets/Sprites/Material/Ko(1).png.meta
+    - Assets/Sprites/Objects.png
+    - Assets/Sprites/Objects.png.meta
+    - Assets/Sprites/Platforms.png
+    - Assets/Sprites/Platforms.png.meta
+    - Assets/Sprites/Player.png
+    - Assets/Sprites/Player.png.meta
+    - Assets/Sprites/StageMenu.meta
+    - Assets/Sprites/StageMenu/Stage_Back.png
+    - Assets/Sprites/StageMenu/Stage_Back.png.meta
+    - Assets/Sprites/StageMenu/Stage_Back2.png
+    - Assets/Sprites/StageMenu/Stage_Back2.png.meta
+    - Assets/Sprites/StageMenu/Stage_Button.png
+    - Assets/Sprites/StageMenu/Stage_Button.png.meta
+    - Assets/Sprites/StageMenu/lock.png
+    - Assets/Sprites/StageMenu/lock.png.meta
+    - Assets/Sprites/TreausreDetail.meta
+    - "Assets/Sprites/TreausreDetail/0\uBC88 \uC720\uBB3C \uC124\uBA85.jpg"
+    - "Assets/Sprites/TreausreDetail/0\uBC88 \uC720\uBB3C \uC124\uBA85.jpg.meta"
+    - "Assets/Sprites/TreausreDetail/1\uBC88 \uC720\uBB3C \uC124\uBA85.jpg"
+    - "Assets/Sprites/TreausreDetail/1\uBC88 \uC720\uBB3C \uC124\uBA85.jpg.meta"
+    - "Assets/Sprites/TreausreDetail/2\uBC88 \uC720\uBB3C \uC124\uBA85.jpg"
+    - "Assets/Sprites/TreausreDetail/2\uBC88 \uC720\uBB3C \uC124\uBA85.jpg.meta"
+    - "Assets/Sprites/TreausreDetail/3\uBC88 \uC720\uBB3C \uC124\uBA85.jpg"
+    - "Assets/Sprites/TreausreDetail/3\uBC88 \uC720\uBB3C \uC124\uBA85.jpg.meta"
+    - "Assets/Sprites/TreausreDetail/4\uBC88 \uC720\uBB3C \uC124\uBA85.jpg"
+    - "Assets/Sprites/TreausreDetail/4\uBC88 \uC720\uBB3C \uC124\uBA85.jpg.meta"
+    - Assets/Sprites/pngegg.png
+    - Assets/Sprites/pngegg.png.meta
+    - "Assets/Sprites/\uB4C0\uD1A0\uB9AC\uC5BC \uC608\uC2DC.jpg"
+    - "Assets/Sprites/\uB4C0\uD1A0\uB9AC\uC5BC \uC608\uC2DC.jpg.meta"
+    - "Assets/Sprites/\uB4C0\uD1A0\uB9AC\uC5BC \uC608\uC2DC2.jpg"
+    - "Assets/Sprites/\uB4C0\uD1A0\uB9AC\uC5BC \uC608\uC2DC2.jpg.meta"
+    - "Assets/Sprites/\uD6C8\uBBFC\uC815\uC74C (2).png"
+    - "Assets/Sprites/\uD6C8\uBBFC\uC815\uC74C (2).png.meta"
+    - "Assets/Sprites/\uD6C8\uBBFC\uC815\uC74C.png"
+    - "Assets/Sprites/\uD6C8\uBBFC\uC815\uC74C.png.meta"
+    - Assets/TileMap.meta
+    - Assets/TileMap/Bottom Left.asset
+    - Assets/TileMap/Bottom Left.asset.meta
+    - Assets/TileMap/Bottom Right.asset
+    - Assets/TileMap/Bottom Right.asset.meta
+    - Assets/TileMap/Bottom.asset
+    - Assets/TileMap/Bottom.asset.meta
+    - Assets/TileMap/Middle Left.asset
+    - Assets/TileMap/Middle Left.asset.meta
+    - Assets/TileMap/Middle Right.asset
+    - Assets/TileMap/Middle Right.asset.meta
+    - Assets/TileMap/Middle.asset
+    - Assets/TileMap/Middle.asset.meta
+    - Assets/TileMap/Platform Palette.prefab
+    - Assets/TileMap/Platform Palette.prefab.meta
+    - Assets/TileMap/Single Left.asset
+    - Assets/TileMap/Single Left.asset.meta
+    - Assets/TileMap/Single Right.asset
+    - Assets/TileMap/Single Right.asset.meta
+    - Assets/TileMap/Single.asset
+    - Assets/TileMap/Single.asset.meta
+    - Assets/TileMap/Slope Left.asset
+    - Assets/TileMap/Slope Left.asset.meta
+    - Assets/TileMap/Slope Right.asset
+    - Assets/TileMap/Slope Right.asset.meta
+    - Assets/TileMap/Slope Under Left.asset
+    - Assets/TileMap/Slope Under Left.asset.meta
+    - Assets/TileMap/Slope Under Right.asset
+    - Assets/TileMap/Slope Under Right.asset.meta
+    - Assets/TileMap/Spike.asset
+    - Assets/TileMap/Spike.asset.meta
+    - Assets/TileMap/Top Left.asset
+    - Assets/TileMap/Top Left.asset.meta
+    - Assets/TileMap/Top Right.asset
+    - Assets/TileMap/Top Right.asset.meta
+    - Assets/TileMap/Top.asset
+    - Assets/TileMap/Top.asset.meta
+    - Assets/stoneage.jpg
+    - Assets/stoneage.jpg.meta
+    - "Assets/\uC640\uB514\uB7FC (2).jpg"
+    - "Assets/\uC640\uB514\uB7FC (2).jpg.meta"
+    - "Assets/\uC640\uB514\uB7FC.jpg"
+    - "Assets/\uC640\uB514\uB7FC.jpg.meta"
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

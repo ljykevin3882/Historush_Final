@@ -9,6 +9,8 @@ TagManager:
   - Treasure
   - Savepoint
   - Platform
+  - Answer_X
+  - Answer_O
   layers:
   - Default
   - TransparentFX

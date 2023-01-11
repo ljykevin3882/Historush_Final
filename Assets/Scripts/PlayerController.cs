@@ -218,13 +218,20 @@ public class PlayerController : MonoBehaviour
     
     void OnTriggerEnter2D(Collider2D collision)
     {
+        if (collision.gameObject.tag == "Answer_O") {
+            BossStageManage.answer = true;
+        }
+        if (collision.gameObject.tag == "Answer_X") {
+            BossStageManage.answer = false;
+        }
         if (collision.gameObject.tag == "Platform" && rigid.velocity.y > 0) //발판 밑에서 위로 점프할때는 통과 가능하게
         {
             capsuleCollider.isTrigger = true;
         }
 
-        if (collision.gameObject.tag == "Enemy")
+        if (collision.gameObject.tag == "Enemy") {
             OnDamaged(collision.transform.position);
+        }
 
         if (collision.gameObject.tag == "Item")
         {
